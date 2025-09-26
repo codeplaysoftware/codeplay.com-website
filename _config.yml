@@ -1,13 +1,12 @@
 # Settings
 title: Codeplay Software Ltd
-url: https://codeplaysoftware.github.io
+url: https://www.codeplay.com
 email: info@codeplay.com
 description: >-
   Codeplay is internationally recognized for expertise in Heterogeneous Systems, and has many years of experience in
   the development of Compilers, Runtimes, Debuggers, Test Systems, and other specialized tools.
 
-destination: _site/codeplay.com-website
-baseurl: codeplay.com-website
+destination: _site
 
 # Default version hash
 version_cache_hash: v6
