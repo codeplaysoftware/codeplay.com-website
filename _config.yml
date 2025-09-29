@@ -58,7 +58,6 @@ redirect_from:
 jekyll_timeago:
   depth: 1
 
-# Site configuration for the Jekyll 3 Pagination Gem
 pagination:
   enabled: true
   debug: false
