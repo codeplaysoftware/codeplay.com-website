@@ -2,7 +2,6 @@
 
 This is the Jekyll based website for codeplay.com.
 
-
 ## Build
 
 To build the website, run `bundle install jekyll build`.
