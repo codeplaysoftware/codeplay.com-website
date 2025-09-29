@@ -1,6 +1,6 @@
 # codeplay.com - Website
 
-This is the Jekyll based website for codeplay.com.
+This is the Jekyll based website for codeplay.com!
 
 ## Build
 
