@@ -63,7 +63,7 @@ pagination:
   debug: false
   collection: 'news'
   per_page: 20
-  permalink: '/:num/' # Pages are index.html inside this folder (default)
+  permalink: '/:num/'
   title: ':title - page :num'
   limit: 0
   sort_field: 'date'
